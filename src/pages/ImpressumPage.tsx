@@ -12,28 +12,10 @@ export default function ImpressumPage() {
         <div className="prose max-w-none dark:prose-invert">
           <h1>Impressum</h1>
           
-          <h2>Company Information</h2>
-          <p>EmailManager GmbH<br />
-          Example Street 123<br />
-          10115 Berlin<br />
-          Germany</p>
-          
-          <h2>Contact</h2>
-          <p>Phone: +49 123 4567890<br />
-          Email: contact@emailmanager.example</p>
-          
-          <h2>Legal Representatives</h2>
-          <p>John Doe, CEO</p>
-          
-          <h2>Registration</h2>
-          <p>Commercial Register: Amtsgericht Berlin-Charlottenburg<br />
-          Registration Number: HRB 123456</p>
-          
-          <h2>VAT ID</h2>
-          <p>VAT ID: DE123456789</p>
-          
-          <h2>Responsible for Content</h2>
-          <p>John Doe (Address as above)</p>
+          <p>Dr. Georg Singer</p>
+          <p>Hofkirchnergasse 7</p>
+          <p>3400 Klosterneuburg</p>
+          <p>georg.singer@gmail.com</p>
         </div>
       </main>
       
