@@ -1,0 +1,31 @@
+
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "templates": "Templates",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "admin": "Admin"
+  },
+  "help": {
+    "title": "Need Help?",
+    "description": "Contact our support team for assistance with any questions or issues.",
+    "contactSupport": "Contact Support"
+  },
+  "welcome": "Welcome back",
+  "monitor": "Monitor and manage your email responses.",
+  "customize": "Customize Settings",
+  "title": "Dashboard",
+  "performance": "Performance Overview",
+  "hoursSaved": "Hours Saved",
+  "monetaryValue": "Monetary Value",
+  "satisfactionIncrease": "Satisfaction Increase",
+  "secondst": "seconds",
+  "trial": {
+    "account": "Trial account:",
+    "remaining": "days remaining"
+  },
+  "connect": "Connect",
+  "notifications": "Notifications & Connectivity",
+  "fileManagement": "File Management"
+}

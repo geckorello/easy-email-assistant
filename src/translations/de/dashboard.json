@@ -1,0 +1,31 @@
+
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "templates": "Vorlagen",
+    "subscription": "Abonnement",
+    "settings": "Einstellungen",
+    "admin": "Admin"
+  },
+  "help": {
+    "title": "Benötigen Sie Hilfe?",
+    "description": "Kontaktieren Sie unser Support-Team für Unterstützung bei Fragen oder Problemen.",
+    "contactSupport": "Support kontaktieren"
+  },
+  "welcome": "Willkommen zurück",
+  "monitor": "Überwachen und verwalten Sie Ihre E-Mail-Antworten.",
+  "customize": "Einstellungen anpassen",
+  "title": "Dashboard",
+  "performance": "Leistungsübersicht",
+  "hoursSaved": "Eingesparte Stunden",
+  "monetaryValue": "Geldwert",
+  "satisfactionIncrease": "Steigerung der Zufriedenheit",
+  "secondst": "Sekunden",
+  "trial": {
+    "account": "Testkonto:",
+    "remaining": "verbleibende Tage"
+  },
+  "connect": "Verbinden",
+  "notifications": "Benachrichtigungen & Konnektivität",
+  "fileManagement": "Dateiverwaltung"
+}
