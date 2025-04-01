@@ -17,6 +17,7 @@ import SignupPage from "./pages/SignupPage";
 import AffiliatePage from "./pages/AffiliatePage";
 import WaitlistPage from "./pages/WaitlistPage";
 import Templates from "./pages/Templates";
+import ImpressumPage from "./pages/ImpressumPage";
 
 const queryClient = new QueryClient();
 
@@ -33,6 +34,7 @@ const AppRoutes = () => (
     <Route path="/signup" element={<SignupPage />} />
     <Route path="/affiliate" element={<AffiliatePage />} />
     <Route path="/waitlist" element={<WaitlistPage />} />
+    <Route path="/impressum" element={<ImpressumPage />} />
     <Route path="*" element={<NotFound />} />
   </Routes>
 );

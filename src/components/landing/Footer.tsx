@@ -16,10 +16,15 @@ export function Footer() {
     return (
       <footer className="w-full py-10 px-4 border-t border-border/40">
         <div className="max-w-7xl mx-auto">
-          <div className="flex justify-center items-center">
-            <p className="text-sm text-muted-foreground">
+          <div className="flex flex-col justify-center items-center">
+            <p className="text-sm text-muted-foreground mb-2">
               {t('common.footer.copyright').replace('{year}', currentYear.toString())}
             </p>
+            <div className="flex items-center space-x-4">
+              <a href="/impressum" className="text-sm text-muted-foreground hover:text-foreground">
+                Impressum
+              </a>
+            </div>
           </div>
         </div>
       </footer>
@@ -52,6 +57,9 @@ export function Footer() {
             </a>
             <a href="/affiliate" className="text-sm text-muted-foreground hover:text-foreground">
               {t('common.footer.affiliate')}
+            </a>
+            <a href="/impressum" className="text-sm text-muted-foreground hover:text-foreground">
+              Impressum
             </a>
           </div>
         </div>
