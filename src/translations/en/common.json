@@ -1,0 +1,46 @@
+
+{
+  "appName": "EmailCopilot",
+  "viewMore": "View More",
+  "learnMore": "Learn More",
+  "tryNow": "Try Now",
+  "back": "Back",
+  "next": "Next",
+  "save": "Save",
+  "cancel": "Cancel",
+  "continue": "Continue",
+  "required": "Required",
+  "loading": "Loading...",
+  "error": "Error",
+  "success": "Success",
+  "header": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "login": "Log in",
+    "signup": "Sign up",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "account": "Account",
+    "logout": "Log out",
+    "loginToAccount": "Login to your account"
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About",
+    "careers": "Careers",
+    "contact": "Contact",
+    "products": "Products",
+    "services": "Services",
+    "resources": "Resources",
+    "blog": "Blog",
+    "documentation": "Documentation",
+    "support": "Support",
+    "legal": "Legal",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "copyright": "© {year} EmailManager.ai. All rights reserved.",
+    "cancellation": "Cancellation Policy",
+    "affiliate": "Affiliate Program"
+  }
+}

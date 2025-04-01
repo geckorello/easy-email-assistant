@@ -1,0 +1,87 @@
+
+{
+  "title": "Subscription Management",
+  "chooseplan": "Choose a plan that works for you",
+  "basic": "Basic",
+  "professional": "Professional",
+  "enterprise": "Enterprise",
+  "perfect": "Perfect for individuals",
+  "popular": "Most popular choice",
+  "large": "For large organizations",
+  "emailsPerMonth": "emails per month",
+  "currentUsage": "Current Usage",
+  "emailsProcessed": "Emails processed this month",
+  "resetOn": "Quota resets on",
+  "securityNotice": "Your data is protected by industry-leading security measures",
+  "manageSubscription": "Manage Subscription",
+  "billingHistory": "Billing History",
+  "invoices": "Invoices",
+  "paymentMethods": "Payment Methods",
+  "cancelSubscription": "Cancel Subscription",
+  "management": "Manage Your Subscription",
+  "faq": "Subscription FAQ",
+  "cancel": "Cancel Subscription",
+  "month": "/month",
+  "currentPlan": "Current Plan",
+  "selectPlan": "Select Plan",
+  "contactSales": "Contact Sales",
+  "feature": {
+    "basic": {
+      "autoResponses": "Basic auto-responses",
+      "analytics": "Basic analytics"
+    },
+    "professional": {
+      "autoResponses": "Advanced auto-responses"
+    },
+    "unlimited": {
+      "responses": "Unlimited email responses"
+    },
+    "ai": {
+      "processing": "AI-powered email processing"
+    },
+    "priority": {
+      "support": "Priority support"
+    },
+    "custom": {
+      "prompts": "Custom AI prompts"
+    },
+    "detailed": {
+      "analytics": "Detailed analytics"
+    },
+    "team": {
+      "collaboration": "Team collaboration"
+    },
+    "analytics": "Advanced analytics dashboard",
+    "branding": "Custom branding options",
+    "accountManager": "Dedicated account manager",
+    "customTemplate": "Own response template that can be changed",
+    "specialTemplates": "Special templates for property managers and real estate agents"
+  },
+  "addons": {
+    "title": "Add-ons",
+    "sms": {
+      "name": "SMS Notifications",
+      "description": "Add text message alerts",
+      "feature1": "Real-time notifications",
+      "feature2": "Customizable alerts",
+      "feature3": "Delivery confirmations",
+      "feature4": "Reply via SMS"
+    },
+    "files": {
+      "name": "Enhanced File Storage",
+      "description": "Expand your storage capacity",
+      "feature1": "Increased storage limits",
+      "feature2": "Advanced file organization",
+      "feature3": "Improved sharing options",
+      "feature4": "Automated backups"
+    },
+    "addToPlan": "Add to Plan"
+  },
+  "usage": {
+    "title": "Current Usage",
+    "status": "You've used",
+    "of": "of",
+    "resetDate": "emails. Your quota resets on",
+    "upgrade": "Upgrade Plan"
+  }
+}

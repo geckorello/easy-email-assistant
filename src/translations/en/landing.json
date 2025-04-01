@@ -1,0 +1,162 @@
+
+{
+  "hero": {
+    "badge": "Intelligent Email Response Drafts",
+    "title": "Your AI Email Assistant for Outlook",
+    "description": "Connect your Outlook account and let our AI handle your emails. Our domain expertise in property management, real estate, and insurance enables exceptional automated email draft preparation that sound truly human - saving you hours every week.",
+    "freeSignup": "Sign up today for FREE",
+    "freeTrialInfo": "Get 50 email drafts prepared immediately - no credit card required!",
+    "startSavingTime": "Start saving time",
+    "timeSavings": "Time Savings",
+    "timeSavingsDesc": "Office workers spend 2-3 hours per day writing emails - more than on any other activity!",
+    "costImpact": "Cost Impact",
+    "costImpactDesc": "Email writing costs businesses €20,000+ per year per employee in lost productivity.",
+    "dashboard": "Go to Dashboard",
+    "learnMore": "Learn More"
+  },
+  "security": {
+    "banner": "Top-level data security – 100% compliant with EU data protection regulations, so you can focus on growing your business with peace of mind!"
+  },
+  "features": {
+    "smartEmail": "Smart Email Processing",
+    "smartEmailDesc": "Automatic analysis and categorization of incoming emails",
+    "secureIntegration": "Secure Integration",
+    "secureIntegrationDesc": "Fully encrypted connection with your Outlook account",
+    "instantProcessing": "Instant Processing",
+    "instantProcessingDesc": "Real-time processing of your emails for quick responses"
+  },
+  "video": {
+    "title": "See EmailManager in Action",
+    "description": "Learn how easy it is to get started with EmailManager",
+    "step1": "Connect Outlook",
+    "step1Desc": "Secure OAuth login with your Microsoft account",
+    "step2": "Process Emails",
+    "step2Desc": "Automatic analysis and draft creation",
+    "step3": "Save Time",
+    "step3Desc": "Review and send your prepared responses"
+  },
+  "industries": {
+    "badge": "Industry-Specific Expertise",
+    "title": "Designed Specifically for Your Industry",
+    "description": "We understand the unique requirements of your industry and offer tailored solutions.",
+    "property": {
+      "title": "Property Management",
+      "description": "Automate tenant inquiries and maintenance communications"
+    },
+    "realestate": {
+      "title": "Real Estate Agents",
+      "description": "Quick responses to viewing requests and property information"
+    },
+    "highvolume": {
+      "title": "High Volume Email Communication",
+      "description": "Efficiently process large quantities of emails"
+    },
+    "specialization": {
+      "title": "Specialized AI Models",
+      "description": "Our AI is specially trained for your industry and understands your specific terminology"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "realEstateAgent": {
+      "quote": "EmailManager has revolutionized our email handling. We save hours daily responding to inquiries.",
+      "name": "Toni Nigg",
+      "title": "Geschäftsführer Nigg Hausverwaltung"
+    },
+    "propertyManager": {
+      "quote": "Automating our email communications has significantly improved our tenant satisfaction. Faster responses mean fewer issues.",
+      "name": "Maria Miller",
+      "title": "Property Manager at HouseManagement Inc."
+    }
+  },
+  "pricing": {
+    "title": "Transparent Pricing",
+    "month": "/month",
+    "contactPricing": "Contact for pricing",
+    "selectPlan": "Select Plan",
+    "contactSales": "Contact Sales",
+    "basic": "Basic",
+    "professional": "Professional",
+    "enterprise": "Enterprise",
+    "feature": {
+      "basic": {
+        "autoResponses": "100 automatic response drafts"
+      },
+      "professional": {
+        "autoResponses": "500 automatic response drafts"
+      },
+      "unlimitedResponses": "Unlimited response drafts",
+      "aiProcessing": "AI-powered email processing",
+      "prioritySupport": "Priority support",
+      "customPrompts": "Custom templates",
+      "customTemplate": "Own response template that can be changed",
+      "specialTemplates": "Special templates for property managers and real estate agents",
+      "analytics": "Advanced analytics",
+      "accountManager": "Dedicated account manager"
+    }
+  },
+  "addons": {
+    "title": "Additional Features",
+    "description": "Expand your email automation with powerful add-ons",
+    "sms": {
+      "name": "SMS Notifications",
+      "description": "Receive important notifications via SMS",
+      "feature1": "Instant alerts",
+      "feature2": "Customizable triggers",
+      "feature3": "Worldwide delivery",
+      "feature4": "Automatic escalation"
+    },
+    "files": {
+      "name": "File Processing",
+      "description": "Automatic processing of attachments",
+      "feature1": "OCR for documents",
+      "feature2": "Automatic categorization",
+      "feature3": "Secure storage",
+      "feature4": "Advanced search functionality"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to the most common questions",
+    "privacy": {
+      "question": "How secure is my data?",
+      "answer": "Your data is protected with state-of-the-art encryption and stored exclusively in the EU. We meet all GDPR requirements."
+    },
+    "password": {
+      "question": "Do you store my Outlook credentials?",
+      "answer": "No, we never store your passwords. Authentication happens securely via OAuth 2.0 from Microsoft."
+    },
+    "responses": {
+      "question": "How are response drafts created?",
+      "answer": "Our AI analyzes the context of your emails and creates appropriate responses based on your previous communications and industry-specific templates."
+    },
+    "cancellation": {
+      "question": "Can I cancel anytime?",
+      "answer": "Yes, you can end your subscription at any time without notice. Unused days will be refunded proportionally."
+    },
+    "dataStorage": {
+      "question": "Where is my data stored?",
+      "answer": "All data is stored and processed exclusively on servers in the European Union."
+    },
+    "setup": {
+      "question": "How long does setup take?",
+      "answer": "Basic setup takes only a few minutes. After connecting your Outlook account, you can start immediately."
+    },
+    "support": {
+      "question": "What support do I receive?",
+      "answer": "We offer email support and live chat during business hours. Premium customers also receive prioritized support."
+    },
+    "startTime": {
+      "question": "When can I start?",
+      "answer": "You can start immediately after signing up. The first 50 email drafts are free, no credit card required."
+    }
+  },
+  "emailDraft": {
+    "title": "Always in Complete Control",
+    "description": "EmailManager only creates drafts – emails are never automatically sent without your approval. You review and approve every draft before it's sent."
+  },
+  "waitlist": {
+    "title": "Be Among the First to Experience Our AI Email Assistant",
+    "description": "Join our exclusive waitlist and get early access to our revolutionary AI email assistant. Save hours every week managing your emails."
+  }
+}
